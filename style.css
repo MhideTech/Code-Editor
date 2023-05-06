@@ -33,13 +33,13 @@ iframe{
     height: 95%;
     background: #fff;
     border: 0;
-    outline: 0;
+    /* outline: 0; */
 }
 label i{
     margin: 0px 10px;
 }
 label{
-    display: flex;
+    /* display: flex; */
     align-items: center;
     background-color: #000;
     height: 30px;
